@@ -17,7 +17,7 @@ import tempfile
 import urllib.request
 import zipfile
 
-REPO = "penghaokun520-gif/-"
+REPO = "penghaokun520-gif/skin-recognition-service"
 GITHUB_API = f"https://api.github.com/repos/{REPO}/releases/latest"
 
 # 这些文件/目录不会被更新覆盖（模型和数据库是本地的）
