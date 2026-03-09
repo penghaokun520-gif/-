@@ -1,7 +1,3 @@
-# 模型和数据库文件（体积大，本地管理）
-best.pt
-data/
-
 # Python
 __pycache__/
 *.pyc
